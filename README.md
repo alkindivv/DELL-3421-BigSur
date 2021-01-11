@@ -1,4 +1,4 @@
-# DELL-3421
-- asas
-wqw
-wqew
+# DELL 3421
+LAPTOP SPECS
+- intel 
+- nvida
