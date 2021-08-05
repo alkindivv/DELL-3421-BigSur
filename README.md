@@ -7,6 +7,9 @@
 [![MacOS BigSur](https://img.shields.io/badge/Big_Sur-11.5-red.svg)](https://www.apple.com/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.1-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
 
+Donate link:  
+[![donate](https://img.shields.io/badge/-buy%20me%20a%20coffee-orange)](https://www.paypal.me/alkindiwilagabrata)
+
 This is my complete EFI folder to be used for hackintosh on Dell Inspiron 14 3421 notebook with multibooting:
 - Windows 10 64 bit
 - macOS Big Sur 11.2
