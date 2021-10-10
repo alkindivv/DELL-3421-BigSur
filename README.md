@@ -10,6 +10,8 @@
 Donate link:  
 [![donate](https://img.shields.io/badge/-buy%20me%20a%20coffee-orange)](https://www.paypal.me/alkindiwilagabrata)
 
+My EFI Link : https://exe.io/IroP
+
 This is my complete EFI folder to be used for hackintosh on Dell Inspiron 14 3421 notebook with multibooting:
 - Windows 10 64 bit
 - macOS Big Sur 11.2
