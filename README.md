@@ -28,7 +28,7 @@ This is my complete EFI folder to be used for hackintosh on Dell Inspiron 14 342
 - [x] <b>CPU</b>: Intel Core i5 3337U @ 1.80GHz ivy bridge
 - [x] <b>iGPU</b>: Intel HD Graphics 4000 @ 1GB
 - [x] <b>dGPU</b>: NVIDIA GeForce 730M @ 2GB
-- [x] <b>RAM</b>: 16GB DDR3 1600Mhz
+- [x] <b>RAM</b>: 8GB DDR3 1600Mhz
 - [x] <b>Storage</b>: 256GB SanDisk SSD  (APFS)
 - [x] <b>Audio</b>: Realtek ALC282 HD Audio Controller
 - [x] <b>Wifi</b>: Intel Centrino 2230U Wirelees Connection
