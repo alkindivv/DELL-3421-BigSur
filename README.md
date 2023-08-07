@@ -45,7 +45,7 @@ This is my complete EFI folder to be used for hackintosh on Dell Inspiron 14 342
 > ## EFI Contains
 - [x] <b>OpenCore binary, config.plist</b>, drivers for uefi, themes, etc..
 - [x] <b>Patched ACPI Tables (DSDT-SSDT)</b> for Sleep, Restart, Shutdown, Touchpad, Brightness, CPU Power Magement, USB Port Map etc..
-- [x] <b>3rd party kexts</b> for working devices under macOS High Sierra (10.13), macOS Mojave (10.14), macOS Catalina (10.15), macOS BigSur (11) and macOS Monterey BETA (12)
+- [x] <b>3rd party kexts</b> for working devices under macOS High Sierra (10.13), macOS Mojave (10.14), macOS Catalina (10.15), macOS BigSur (11) and macOS Monterey BETA (12), macOS Ventura
  
 <details>
 <summary><strong> What's Worked </strong></summary>
