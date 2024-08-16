@@ -8,7 +8,7 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.2-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
 
 Donate link:  
-[![donate](https://img.shields.io/badge/-buy%20me%20a%20coffee-orange)](https://www.paypal.me/alkindiwilagabrata)
+[![donate](https://img.shields.io/badge/-buy%20me%20a%20coffee-orange)](https://www.paypal.me/alkindivv)
 
 This is my complete EFI folder to be used for hackintosh on Dell Inspiron 14 3421 notebook with multibooting:
 - Windows 10 64 bit
