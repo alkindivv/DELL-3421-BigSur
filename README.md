@@ -12,7 +12,7 @@ Donate link:
 
 This is my complete EFI folder to be used for hackintosh on Dell Inspiron 14 3421 notebook with multibooting:
 - Windows 10 64 bit
-- macOS Big Sur 11.2
+- macOS Big Sur 11.2 - macOS Tahoe
 - Kali Linux 2020.4
  
 ![2021-08-04 11 14 05](https://user-images.githubusercontent.com/66145311/128124868-12198fb3-b5da-4e93-82bc-3b7c8db2fd4e.jpg)
